@@ -1,8 +1,8 @@
-# Web Development Project 5 - *CookBook*
+# Web Development Project 5 - *SmartWeather*
 
 Submitted by: **Alameen Adeku**
 
-This web app: **View information about different meals, along with meal plans and other menu items**
+This web app: **...**
 
 Time spent: **X** hours spent in total
 

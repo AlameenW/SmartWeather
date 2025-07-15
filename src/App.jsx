@@ -32,6 +32,7 @@ function App() {
       <div className="container">
         <header>
           <h1>SmartWeather</h1>
+          <h3>Predicted weather information for the next week in {city}, USA</h3>
         </header>
         <nav>
           <div>Dashboard</div>
@@ -46,7 +47,7 @@ function App() {
           />
         </section>
         <main>
-          <DataPanel />
+          {(latitude!=0 && longitude!=0) && (<DataPanel lat={latitude.toFixed(2)} long={longitude.toFixed(2)} />)}
         </main>
       </div>
     </div>

@@ -2,7 +2,7 @@
 
 Submitted by: **Alameen Adeku**
 
-This web app: **...**
+This web app: **8**
 
 Time spent: **X** hours spent in total
 
@@ -10,11 +10,11 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **The site has a dashboard displaying a list of data fetched using an API call**
+- [x] **The site has a dashboard displaying a list of data fetched using an API call**
   - The dashboard should display at least 10 unique items, one per row
   - The dashboard includes at least two features in each row
-- [ ] **`useEffect` React hook and `async`/`await` are used**
-- [ ] **The app dashboard includes at least three summary statistics about the data** 
+- [x] **`useEffect` React hook and `async`/`await` are used**
+- [x] **The app dashboard includes at least three summary statistics about the data** 
   - The app dashboard includes at least three summary statistics about the data, such as:
     - *insert details here*
 - [ ] **A search bar allows the user to search for an item in the fetched data**

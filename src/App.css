@@ -13,3 +13,12 @@ body {
   flex-direction: row;
   justify-content: space-evenly;
 }
+.data-filters form{
+  display: flex;
+  justify-content: center;
+}
+nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+
